@@ -1,0 +1,18 @@
+# Editors and Jupyter
+.idea/
+.ipynb_checkpoints/
+
+# Private material (answers, hidden tests, grading, drafts): nested private repo
+private/
+*-with-answers.*
+
+# Generated exports
+*.html
+
+# Scratch notebooks
+Untitled*.ipynb
+
+# Data downloaded or written when running the course notebooks
+syseron.xml.zip
+data.json
+data.xml
