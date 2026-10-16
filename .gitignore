@@ -1,6 +1,7 @@
-# Editors and Jupyter
+# Editors, Jupyter and Python
 .idea/
 .ipynb_checkpoints/
+__pycache__/
 
 # Private material (answers, hidden tests, grading, drafts): nested private repo
 private/
@@ -16,3 +17,7 @@ Untitled*.ipynb
 syseron.xml.zip
 data.json
 data.xml
+
+# Course demos: TinyStories download, SSA sandbox
+data/
+ssa_demo/
