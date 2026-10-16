@@ -1,4 +1,5 @@
-# Editors, Jupyter and Python
+# Editors, Jupyter, Python and Claude Code
+.claude/
 .idea/
 .ipynb_checkpoints/
 __pycache__/
